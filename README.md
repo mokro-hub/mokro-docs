@@ -1,2 +1,3 @@
-# mokro-docs
-Documentation, manual, sketches and circuit schematics for Mokro hub devices
+# Mokro Hub Docs
+
+Check the documentation, manuals, sketches and [circuit schematics](https://github.com/mokro-hub/mokro-docs/tree/main/schematics) for Mokro hub devices.
